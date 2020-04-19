@@ -1,5 +1,7 @@
-COVID-19 Web Data Scraping
+# COVID-19 Visulization using Web Data Scraping by Python Libraries #
 
 Data scraped from worldometers website is stored in AWS MySql Database using python libraries.
+Finally Data is visulized using Tableau Application.
+
 
 
