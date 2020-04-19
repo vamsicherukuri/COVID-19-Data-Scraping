@@ -6,10 +6,10 @@ from bs4 import BeautifulSoup
 import sqlalchemy
 
 #connect to MySQL DB in AWS
-db_username = 'administrator'
-db_password = 'Corona19'
-db_ip       = 'covid19db.co2z4r8ftwl1.us-east-2.rds.amazonaws.com'
-db_name     = 'covid19'
+db_username = 'xxxxxxx'
+db_password = 'xxxxx'
+db_ip       = 'xxxx.xxxxxxx.rds.amazonaws.com'
+db_name     = 'xxxxxx'
 db_connection = sqlalchemy.create_engine('mysql+mysqlconnector://{0}:{1}@{2}/{3}'.
                                          format(db_username, db_password, db_ip, db_name))
 #get url for world dataset
