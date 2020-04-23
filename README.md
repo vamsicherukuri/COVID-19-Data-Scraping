@@ -85,9 +85,17 @@ Access Tableau Public live/intreactive Visualization here :
 
 https://public.tableau.com/views/COVID-19WORLD/COVID-19Global?:display_count=y&:origin=viz_share_link
 
+<img width="1386" alt="Screen Shot 2020-04-22 at 10 44 03 PM" src="https://user-images.githubusercontent.com/25069658/80054049-57e51280-84ec-11ea-8a2d-1be7d6db0230.png">
+
 https://public.tableau.com/views/COVID-19_15876011297410/COVID-19USA?:display_count=y&:origin=viz_share_link
 
+<img width="1386" alt="Screen Shot 2020-04-22 at 10 45 01 PM" src="https://user-images.githubusercontent.com/25069658/80054159-85ca5700-84ec-11ea-9ba2-c20ccb417daa.png">
+
+
 https://public.tableau.com/views/COVID-19USASTATS/COVID-19USAByStates?:display_count=y&publish=yes&:origin=viz_share_link
+
+<img width="1412" alt="Screen Shot 2020-04-22 at 10 48 22 PM" src="https://user-images.githubusercontent.com/25069658/80054220-9f6b9e80-84ec-11ea-9526-4bb173e9280c.png">
+
 
 
 ## Built With
