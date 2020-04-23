@@ -81,6 +81,12 @@ MySql DB
 Tableau Desktop
 Tableau public for publishing the dashboard.
 
+Access Tableau Public live/intreactive Visualization here : 
+https://public.tableau.com/views/COVID-19WORLD/COVID-19Global?:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/COVID-19_15876011297410/COVID-19USA?:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/COVID-19USASTATS/COVID-19USAByStates?:display_count=y&publish=yes&:origin=viz_share_link
+
+
 ## Built With
 
 * [Worldometers Data Source URL](https://www.worldometers.info/coronavirus/#countries) - The web Site used to scrape
