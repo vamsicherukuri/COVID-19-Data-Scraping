@@ -1,0 +1,12 @@
+PYTHON LIBRARIES
+pandas
+requests
+json
+BeautifulSoup
+sqlalchemy
+
+DATABASE TOOL
+AWS RD MySql (Free tire)
+
+VISULIZATION TOOL
+Tableau Public (Free public profile)
